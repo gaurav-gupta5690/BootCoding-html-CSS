@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-decoration: underline;
+}
+h1{
+    text-decoration: line-through;
+}
+
+body{
+    font-weight: bold;
+}
+h1{
+    font-weight: lighter;
+}
+#h1{
+    color: red;
+}
