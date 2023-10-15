@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(235, 228, 219);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(174, 179, 182);
+    height: 50px;
+    width: 50%;
+    font-size: 30px;
+    border-radius: 15px;
+}
+style,table,td,th,tr{
+    border: 1px solid black;
+    border-collapse:collapse;
+    
+}
+#nn{
+    font-weight: bold;
+    border: none;
+}
+div{
+    background-color:white;
+    height: 200px;
+    width: 52%;
+}
+.prname{
+    font-size: larger;
+    font-weight: bold;
+}
+table{
+    border-radius: 20px;
+    height: 200px;
+}

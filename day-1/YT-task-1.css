@@ -1,0 +1,12 @@
+h1{
+    color: rgb(52, 135, 135);
+}
+#ab{
+    background-color: rgba(173, 180, 175, 0.674);
+}
+#cd{
+    background-color: rgba(173, 180, 175, 0.374);
+}
+.abcd{
+    color: rgb(52, 135, 135);
+}
